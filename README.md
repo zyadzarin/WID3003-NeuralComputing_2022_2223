@@ -3,7 +3,7 @@ Mostly lab materials or stuff that I didn't manage to cover in lecture for Neura
 
 Attention
 
-Assignment 2 Submission Date: June 09 2023 (Friday) 4pm
+Assignment 2 Submission Date: June 16 2023 (Friday) 4pm (Final, fixed)
 
 Final Exam/ Alternative assesment (tentative)
 Date : 26 June 2023 Monday
